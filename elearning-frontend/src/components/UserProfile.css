@@ -1,0 +1,6 @@
+.user-profile { background: linear-gradient(135deg,#667eea 0%,#764ba2 100%); color:white; padding:1rem; border-radius:12px; box-shadow:0 4px 16px rgba(0,0,0,0.12); }
+.user-profile h2 { margin-bottom:0.75rem; }
+.profile-info { display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:0.5rem; margin-bottom:0.75rem; }
+.profile-info p { margin:0.25rem 0; font-size:0.95rem; }
+.profile-info strong { font-weight:700; }
+.role-badge { display:inline-block; background:rgba(255,255,255,0.18); padding:0.25rem 0.65rem; border-radius:20px; margin-right:0.5rem; font-size:0.85rem; font-weight:700; }
